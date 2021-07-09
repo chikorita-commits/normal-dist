@@ -1,0 +1,2 @@
+# normal-dist
+Normal Distribution
